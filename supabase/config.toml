@@ -1,0 +1,7 @@
+project_id = "wjuoghoahuyxvascddak"
+
+[functions.validate-answer]
+verify_jwt = false
+
+[functions.generate-session-analysis]
+verify_jwt = false
